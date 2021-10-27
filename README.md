@@ -1,24 +1,5 @@
 # Android_Interview_Questions
 
-<p align="center">
-<img alt="AndroidInterviewQuestions" src="https://raw.githubusercontent.com/MindorksOpenSource/android-interview-questions/master/assets/banner-android-interview-questions.jpg">
-</p>
-
-# Android Interview Questions
-[![MindOrks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![MindOrks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-[![MindOrks Android Store](https://img.shields.io/badge/Mindorks%20Android%20Store-Android%20Interview%20Questions-blue.svg?style=flat)](https://mindorks.com/android/store)
-
-> Android Interview Questions - Your Cheat Sheet For Android Interview
-
-## Prepared and maintained by [Amit Shekhar](https://github.com/amitshekhariitbhu) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
-
-<p align="center">
-<a href="https://mindorks.com/android-app-development-online-course" target="_blank">
-  <img alt="Android Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-interview-questions/master/assets/roadmap.png">
-</a>	
-</p>
-
 ## A complete guide for learning Android Development - [Check here](https://mindorks.com/android-app-development-online-course)
 
 ## Contents
