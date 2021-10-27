@@ -1,7 +1,5 @@
 # Android_Interview_Questions
 
-## A complete guide for learning Android Development - [Check here](https://mindorks.com/android-app-development-online-course)
-
 ## Contents
 
 * [Core Android](#core-android)
